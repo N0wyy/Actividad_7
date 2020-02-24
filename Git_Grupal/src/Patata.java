@@ -6,7 +6,10 @@ public class Patata {
 	System.out.println("Hola Mundo");
 	
 	System.out.println("Hola Pa ti");
-	
+
+	System.out.println("Nacho dice patata");
+
+
 	}
 	
 }
