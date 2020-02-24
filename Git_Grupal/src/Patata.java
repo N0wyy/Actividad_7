@@ -10,7 +10,8 @@ public class Patata {
 	System.out.println("Nacho dice patata");
 	
 	System.out.println("Hola Ehhhh");
-	
+
+	System.out.println("Hola HolaHolita");
 
 	}
 	
